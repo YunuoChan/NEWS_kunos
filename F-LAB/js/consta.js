@@ -1,0 +1,1 @@
+var ALLNEWS_API = 'https://newsapi.org/v2/top-headlines?apiKey=77d9f0fc9d9d4819a2980f0e829d0da5&country=ph';
