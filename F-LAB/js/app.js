@@ -1,6 +1,6 @@
 $(function(){ 
 var newsButton = $('#goSearchBtn');
-var NewList = $('#jokes-list');
+var NewList = $('#News-list');
 
 
    async function makeNews(){
